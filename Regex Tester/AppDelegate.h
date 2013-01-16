@@ -12,4 +12,13 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+@property (nonatomic, strong) IBOutlet NSTextField *regexTextField;
+@property (nonatomic, strong) IBOutlet NSTextField *replaceWithTextField;
+@property (nonatomic, strong) IBOutlet NSTextField *searchTextField;
+@property (nonatomic, strong) IBOutlet NSTextField *resultTextField;
+
+- (IBAction)matchSearchText:(id)sender;
+- (IBAction)checkOption:(NSButton *)sender;
+
+
 @end

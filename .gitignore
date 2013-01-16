@@ -1,0 +1,10 @@
+
+*.xcworkspacedata
+
+Regex Tester.xcodeproj/project.xcworkspace/xcuserdata/wangyq.xcuserdatad/UserInterfaceState.xcuserstate
+
+Regex Tester.xcodeproj/xcuserdata/wangyq.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist
+
+Regex Tester.xcodeproj/xcuserdata/wangyq.xcuserdatad/xcschemes/Regex Tester.xcscheme
+
+Regex Tester.xcodeproj/xcuserdata/wangyq.xcuserdatad/xcschemes/xcschememanagement.plist
